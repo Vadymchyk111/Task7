@@ -30,7 +30,6 @@ namespace Task7
                 playerCrystall += countOfCrystallToBuy;
             }
             Console.WriteLine("У вас осталось " + playerMoney + " монет и "+ playerCrystall+" кристаллов");
-           
         }
     }
 }
